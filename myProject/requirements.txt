@@ -1,0 +1,17 @@
+# Core dependencies
+Django==5.1.2
+django-cors-headers==4.5.0
+djangorestframework==3.15.2
+# Database
+mysqlclient==2.2.5
+# http client
+requests==2.32.3
+# Custome libs
+erpauthlib==0.2
+erpcommonlib==0.0.98
+# Other libs.
+pytz==2024.1
+xhtml2pdf==0.2.15
+openpyxl==3.1.2
+inflect==7.3.1
+django-bleach==3.1.0
